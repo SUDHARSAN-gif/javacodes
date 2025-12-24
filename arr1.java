@@ -1,3 +1,4 @@
+//Q1. Write a Java program to get the input from the user and print the array.
 import java.util.Scanner;
 public class arr1{
     public static void main(String[] args) {
@@ -14,4 +15,5 @@ public class arr1{
             System.out.print(x+" ");
         }
     }
+
 }
